@@ -7,13 +7,13 @@
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "URL_ICON_192",
-      "sizes": "192x192",
+      "src": "https://github.com/salmawar/script/blob/main/icon.png",
+      "sizes": "100x100",
       "type": "image/png"
     },
     {
-      "src": "URL_ICON_512",
-      "sizes": "512x512",
+      "src": "https://github.com/salmawar/script/blob/main/icon.png",
+      "sizes": "100x100",
       "type": "image/png"
     }
   ]
